@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luodian/Desktop/network_alignment/SCC.h
+header.h
+/Users/luodian/Desktop/network_alignment/header.h
+
+/Users/luodian/Desktop/network_alignment/header.h
+iostream
+-
+cstring
+-
+algorithm
+-
+stack
+-
+vector
+-
+queue
+-
+cstdlib
+-
+fstream
+-
+cstdio
+-
+set
+-
+map
+-
+
+/Users/luodian/Desktop/network_alignment/main.cpp
+header.h
+/Users/luodian/Desktop/network_alignment/header.h
+SCC.h
+/Users/luodian/Desktop/network_alignment/SCC.h
+
